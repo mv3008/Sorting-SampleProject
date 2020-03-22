@@ -17,5 +17,5 @@ I have taken array as a storage...Will release more options later...
 So Start cloning and learn yourself..
 
 Thanks
-![Image]("capture.png")
+![Image](https://github.com/mv3008/Sorting-SampleProject/blob/master/Capture.PNG)
 
